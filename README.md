@@ -1,4 +1,4 @@
-THIS PORT DOESN'T CONTAINS THE GAME FILES, YOU'LL DOWNLOAD YOUR OWN GAME FILES
+THIS PORT DOESN'T CONTAINS THE GAME FILES, YOU'LL DOWNLOAD YOUR OWN GAME FILES (Guide in the README.md inside the infinitydefect and in port.json)
 
 Credits
 Design & code: John Gabriel (@JohnGabrielUK) https://johngabrieluk.itch.io/
