@@ -1,0 +1,44 @@
+{
+    "version": 4,
+    "name": "infinitydefect.zip",
+    "items": [
+        "Infinity Defect.sh",
+        "infinitydefect"
+    ],
+    "items_opt": null,
+    "attr": {
+        "title": "Infinity Defect",
+        "porter": [
+            "Nightmareaxd"
+        ],
+        "desc": "Port of Infinity Defect by johngabrieluk, all game credits to him https://johngabrieluk.itch.io/infinity-defect",
+        "desc_md": null,
+        "inst": "Download the windows game version from https://johngabrieluk.itch.io/infinity-defect, extract the zip, then copy the folder that contains the game pck to the port root"
+        "inst_md": ,
+        "genres": [
+            "Fps"
+        ],
+        "image": null,
+        "rtr": false,
+        "exp": false,
+        "runtime": [
+            "frt_3.5.2.squashfs"
+        ],
+        "store": [],
+        "availability": "full",
+        "reqs": [],
+        "arch": [],
+
+        "min_glibc": ""
+    },
+    "status": {
+        "source": "Unknown",
+        "md5": null,
+        "status": "Installed"
+    },
+    "files": {
+        "port.json": "infinitydefect/port.json",
+        "InfinityDefect": "InfinityDefect",
+        "infinitydefect": "infinitydefect"
+    }
+}
