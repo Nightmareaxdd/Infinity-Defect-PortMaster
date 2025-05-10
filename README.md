@@ -1,4 +1,4 @@
-
+THIS PORT DOESN'T CONTAINS THE GAME FILES, YOU'LL DOWNLOAD YOUR OWN GAME FILES
 
 Credits
 Design & code: John Gabriel (@JohnGabrielUK) https://johngabrieluk.itch.io/
