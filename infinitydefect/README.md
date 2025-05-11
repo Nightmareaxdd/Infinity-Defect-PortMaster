@@ -22,11 +22,11 @@ Textinput controls:
 
 To enter to textinput mode press START + Dpad Down
 
-Dpad Up/Down | for select letters 
-Dpad Right | for next Character
-Dpad Left | for Delete/Previous Character
-A | for Send enter and exit textinput
-L1 | for Jump back 13 letters
-R1 | for Jump 13 letters
-Select | for Cancel and exit textinput
-Start | for Confirm and exit textinput
+Dpad Up/Down|for select letters 
+Dpad Right for next Character
+Dpad Left|for Delete/Previous Character
+A|for Send enter and exit textinput
+L1|for Jump back 13 letters
+R1|for Jump 13 letters
+Select|for Cancel and exit textinput
+Start|for Confirm and exit textinput
