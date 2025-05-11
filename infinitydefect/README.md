@@ -21,7 +21,8 @@ The controls can change in game due to one of it features!
 Textinput controls:
 
 To enter to textinput mode press START + Dpad Down
-
+| Button | Action |
+|--|--| 
 Dpad Up/Down|for select letters 
 Dpad Right for next Character
 Dpad Left|for Delete/Previous Character
