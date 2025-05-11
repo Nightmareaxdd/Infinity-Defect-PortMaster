@@ -24,7 +24,7 @@ To enter to textinput mode press START + Dpad Down
 | Button | Action |
 |--|--| 
 Dpad Up/Down|for select letters 
-Dpad Right for next Character
+Dpad Right|for next Character
 Dpad Left|for Delete/Previous Character
 A|for Send enter and exit textinput
 L1|for Jump back 13 letters
