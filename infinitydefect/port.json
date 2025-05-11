@@ -3,7 +3,7 @@
     "name": "infinitydefect.zip",
     "items": [
         "Infinity Defect.sh",
-        "infinitydefect"
+        "infinitydefect/"
     ],
     "items_opt": null,
     "attr": {
@@ -39,6 +39,6 @@
     "files": {
         "port.json": "infinitydefect/port.json",
         "InfinityDefect": "InfinityDefect",
-        "infinitydefect": "infinitydefect"
+        "infinitydefect/": "infinitydefect/"
     }
 }
